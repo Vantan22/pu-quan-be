@@ -37,4 +37,3 @@ export const login = async (req, res) => {
   }
 };
 
-// Các hàm forgotPassword và resetPassword sẽ được thêm vào đây
